@@ -2,3 +2,4 @@
 
 Applications included:
 - PocketDent
+- Nomika
