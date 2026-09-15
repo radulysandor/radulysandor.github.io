@@ -6,12 +6,12 @@ We respect your privacy and are committed to protecting it. This Privacy Policy 
 
 ## 1. Context
 
-This Privacy Policy applies to the **PocketDent** and **Nomika** applications. All policies described here refer specifically to how PocketDent and Nomika handle data and user interactions. Both apps are handled in the same way, as described below.
+This Privacy Policy applies to the **PocketDent**, **Nomika** and **Corbel** applications. All policies described here refer specifically to how PocketDent, Nomika and Corbel handle data and user interactions. All apps are handled in the same way, as described below.
 
 ## 2. Information We Collect
 We do not collect, store, or share any personal information from users.
 
-If you make a purchase within either app, all transactions are processed securely by Apple. We do not have access to your payment details or billing information.
+If you make a purchase within any of the apps, all transactions are processed securely by Apple. We do not have access to your payment details or billing information.
 
 ## 3. Usage Data
 We do not collect analytics, tracking data, or usage statistics.
