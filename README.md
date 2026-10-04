@@ -4,3 +4,4 @@ Applications included:
 - PocketDent
 - Nomika
 - Corbel
+- Tethra

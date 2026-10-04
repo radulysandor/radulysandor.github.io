@@ -6,7 +6,7 @@ We respect your privacy and are committed to protecting it. This Privacy Policy 
 
 ## 1. Context
 
-This Privacy Policy applies to the **PocketDent**, **Nomika** and **Corbel** applications. All policies described here refer specifically to how PocketDent, Nomika and Corbel handle data and user interactions. All apps are handled in the same way, as described below.
+This Privacy Policy applies to the **PocketDent**, **Nomika**, **Corbel** and **Tethra** applications. All policies described here refer specifically to how PocketDent, Nomika, Corbel and Tethra handle data and user interactions. All apps are handled in the same way, as described below.
 
 ## 2. Information We Collect
 We do not collect, store, or share any personal information from users.
